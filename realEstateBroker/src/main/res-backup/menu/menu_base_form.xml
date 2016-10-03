@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:saovietcrm="http://schemas.android.com/apk/res-auto" >
+
+    <item android:id="@+id/action_save"
+          android:icon="@drawable/ic_accept"
+          saovietcrm:showAsAction="ifRoom|collapseActionView"
+          android:title="@string/save"/>
+
+    <item android:id="@+id/action_delete"
+          android:icon="@drawable/ic_discard"
+          saovietcrm:showAsAction="ifRoom|collapseActionView"
+          android:title="@string/delete"/>
+    <item android:id="@+id/action_delete2"
+        android:icon="@drawable/ic_discard"
+        saovietcrm:showAsAction="ifRoom|collapseActionView"
+        android:title="@string/delete"/>
+    <item android:id="@+id/action_delete3"
+        android:icon="@drawable/ic_discard"
+        saovietcrm:showAsAction="ifRoom|collapseActionView"
+        android:title="@string/delete"/>
+    <item android:id="@+id/action_delete4"
+        android:icon="@drawable/ic_discard"
+        saovietcrm:showAsAction="ifRoom|collapseActionView"
+        android:title="@string/delete"/>
+    <item android:id="@+id/action_delete5"
+        android:icon="@drawable/ic_discard"
+        saovietcrm:showAsAction="ifRoom|collapseActionView"
+        android:title="@string/delete"/>
+</menu>
